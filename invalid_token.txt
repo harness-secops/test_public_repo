@@ -1,6 +1,0 @@
-{
-“access_token” : “ya29.AHES6ZQu8zGIjmFBcO2ns6T-4HWwrHimliyxO0TXdGNdAuddZJ8slg”,
-“token_type” : “Bearer”,
-“expires_in” : 3600,
-“refresh_token” : “1/ZITkPoWBpishGbrqiXW3dzgcgpKbw5S28LNQ98-3FMc”
-}
